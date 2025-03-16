@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "teacher": "John Doe",
+        "sub": "JavaScript"
+    }, 
+    {
+        "id": 2,
+        "teacher": "Alice Johnson",
+        "sub": "JavaScript"
+    }, 
+    {
+        "id": 3,
+        "teacher": "Michael Smith",
+        "sub": "JavaScript"
+    }, 
+    {
+        "id": 4,
+        "teacher": "Sophia Brown",
+        "sub": "JavaScript"
+    }, 
+    {
+        "id": 5,
+        "teacher": "David White",
+        "sub": "JavaScript"
+    },
+    {
+        "id": 6,
+        "teacher": "Emma Davis",
+        "sub": "Python"
+    },
+    {
+        "id": 7,
+        "teacher": "Robert Wilson",
+        "sub": "Python"
+    }, 
+    {
+        "id": 8,
+        "teacher": "Olivia Martinez",
+        "sub": "Python"
+    },
+    {
+        "id": 9,
+        "teacher": "William Anderson",
+        "sub": "Python"
+    },
+    {
+        "id": 10,
+        "teacher": "Emily Thomas",
+        "sub": "Python"
+    },
+    {
+        "id": 11,
+        "teacher": "James Brown",
+        "sub": "Java"
+    },
+    {
+        "id": 12,
+        "teacher": "Charlotte Taylor",
+        "sub": "Java"
+    },
+    {
+        "id": 13,
+        "teacher": "Daniel Moore",
+        "sub": "Java"
+    },
+    {
+        "id": 14,
+        "teacher": "Sophia Harris",
+        "sub": "Java"
+    },
+    {
+        "id": 15,
+        "teacher": "Henry Scott",
+        "sub": "Java"
+    },
+    {
+        "id": 16,
+        "teacher": "Lucas Rodriguez",
+        "sub": "C++"
+    },
+    {
+        "id": 17,
+        "teacher": "Mia Thompson",
+        "sub": "C++"
+    },
+    {
+        "id": 18,
+        "teacher": "Noah Martinez",
+        "sub": "C++"
+    },
+    {
+        "id": 19,
+        "teacher": "Ethan Hall",
+        "sub": "C++"
+    },
+    {
+        "id": 20,
+        "teacher": "Ava Perez",
+        "sub": "C++"
+    },
+    {
+        "id": 21,
+        "teacher": "Liam Lewis",
+        "sub": "C#"
+    },
+    {
+        "id": 22,
+        "teacher": "Mason Clark",
+        "sub": "C#"
+    },
+    {
+        "id": 23,
+        "teacher": "Harper Young",
+        "sub": "C#"
+    },
+    {
+        "id": 24,
+        "teacher": "Evelyn King",
+        "sub": "C#"
+    },
+    {
+        "id": 25,
+        "teacher": "Benjamin Wright",
+        "sub": "C#"
+    },
+    {
+        "id": 26,
+        "teacher": "Lucas Walker",
+        "sub": "Swift"
+    },
+    {
+        "id": 27,
+        "teacher": "Amelia Adams",
+        "sub": "Swift"
+    },
+    {
+        "id": 28,
+        "teacher": "Alexander Nelson",
+        "sub": "Swift"
+    },
+    {
+        "id": 29,
+        "teacher": "Isabella Carter",
+        "sub": "Swift"
+    },
+    {
+        "id": 30,
+        "teacher": "Samuel Baker",
+        "sub": "Swift"
+    }
+]
