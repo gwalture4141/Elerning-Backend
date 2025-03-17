@@ -1,4 +1,4 @@
-const courseList = require("../Models/Courses.json");
+const courseList = require("../Models/courses.json");
 
 
 
